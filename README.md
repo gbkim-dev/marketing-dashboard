@@ -1,5 +1,9 @@
 # 📊 마케팅 성과 대시보드
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gbkim-dev-marketing-dashboard-app-dcajy3.streamlit.app/)
+
+🌐 **라이브 데모**: https://gbkim-dev-marketing-dashboard-app-dcajy3.streamlit.app/
+
 채널 데이터 + AppsFlyer 어트리뷰션을 자동 조인해서 **"매일 아침 따져봐야 할 캠페인"**을 30초 안에 잡아내는 Streamlit 대시보드.
 
 > 매드업 퍼포먼스 마케팅 팀 워크샵 산출물. 워크샵 토픽 1번(데이터 분석 & 대시보드)을 실제 코드로 구현한 버전.
