@@ -1,12 +1,31 @@
 # 📊 마케팅 성과 대시보드
 
+> ⚠️ **본 레포는 Claude Code 교육용 TEST 프로젝트입니다.**
+> 실제 운영 환경이 아니며, 데이터는 모두 워크샵용 합성 샘플(구글·메타·네이버 가상 캠페인)입니다.
+> 실제 광고주 데이터를 절대 포함하지 않습니다.
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gbkim-dev-marketing-dashboard-app-dcajy3.streamlit.app/)
+![Status](https://img.shields.io/badge/status-EDUCATIONAL_TEST-orange)
+![Built with](https://img.shields.io/badge/built_with-Claude_Code-blueviolet)
 
 🌐 **라이브 데모**: https://gbkim-dev-marketing-dashboard-app-dcajy3.streamlit.app/
 
 채널 데이터 + AppsFlyer 어트리뷰션을 자동 조인해서 **"매일 아침 따져봐야 할 캠페인"**을 30초 안에 잡아내는 Streamlit 대시보드.
 
-> 매드업 퍼포먼스 마케팅 팀 워크샵 산출물. 워크샵 토픽 1번(데이터 분석 & 대시보드)을 실제 코드로 구현한 버전.
+> **만든 배경**: 매드업 X Claude Code 워크샵 교육 산출물.
+> 워크샵 토픽 1번(데이터 분석 & 대시보드)을 자연어 지시만으로 Claude Code가 실제 코드로 구현한 버전.
+
+## 🎓 교육용 프로젝트 안내
+
+| 항목 | 내용 |
+|------|------|
+| **목적** | Claude Code로 마케팅 자동화 가능성 시연 |
+| **상태** | TEST · 실제 운영용 X |
+| **데이터** | 모두 합성·가상 캠페인 (개인정보·실제 매체 데이터 없음) |
+| **제작 방식** | 자연어 브레인스토밍 → 디자인 스펙 → 코드 자동 생성 |
+| **소요 시간** | 약 2시간 (브레인스토밍 30분 + 구현·검증 1.5시간) |
+
+본 프로젝트는 **"자연어로 부탁만 하면 마케팅 자동화 도구를 만들 수 있다"** 는 워크샵 주제를 증명하기 위한 데모입니다. 실제 광고주 데이터로 운영하려면 별도 fork + 데이터 검증 + 보안 점검이 필요합니다.
 
 ---
 
