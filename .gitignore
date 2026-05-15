@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Brainstorm session artifacts
+.superpowers/
+
+# Local Claude Code config (project-specific)
+.claude/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Sensitive (defense-in-depth)
+.env
+.env.*
+*.token.json
+*credentials*.json
+*client_secret*.json
+
+# Generated / temporary outputs
+naver_*.html
+naver_*.json
+shopping_ads_*.json
+products_*.json
+products_with_brand*.json
+mobile_*.html
+extract_*.py
+scrape_*.py
+inspect_*.py
+find_*.py
+parse_*.py
+*.log
